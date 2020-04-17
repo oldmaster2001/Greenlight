@@ -234,7 +234,7 @@ ru:
     email: Электронная почта
     submit: Отправить
   go_back: Вернуться
-  greenlight: Greenlight
+  greenlight: Портал обучения
   header:
     all_recordings: Все записи
     dropdown:
@@ -258,7 +258,7 @@ ru:
     search:
       start: Начинаем поиск...
   landing:
-    about: "Кружок робототехники, программирования и 3D моделирования"
+    about: "Кружок робототехники, программирования и 3D-моделирования"
     welcome: Добро пожаловать в ROBBO CLUB Машинариум!
     video: Ознакомьтесь с нашим учебником по использованию Greenlight
     upgrade: "Покажите мне, как обновить до 2.0!"
